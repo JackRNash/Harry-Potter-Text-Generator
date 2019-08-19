@@ -2,7 +2,7 @@
 Experiments in natural text generation using Harry Potter books as the source text
 
 ## Viewing the notebook/code
-Github seems to struggle to render the notebook, so please use **[this link](https://nbviewer.jupyter.org/github/JackRNash/Harry-Potter-Text-Generator/blob/master/HarryPotter.ipynb)** to view it.
+Github seems to struggle to render the notebook, so please use **[this link](https://nbviewer.jupyter.org/github/JackRNash/Harry-Potter-Text-Generator/blob/master/HarryPotter.ipynb)** to view it if it won't load.
 
 ## Purpose
 In preparation for a more advanced project using natural language generation, I wanted to investigate different techniques in NLP, get practice applying them, and learn about their pitfalls. I was inspired by Andrew Karpathy's excellent blogpost on the effectiveness of LSTMs at generating somewhat realistic text. The LSTM described in his post was the first one I implemented and works by predicting the next character based on the previous character the model has seen. It's impressive what the model can learn(like the enitre English language) just from looking at the past characters and guessing the next. 
