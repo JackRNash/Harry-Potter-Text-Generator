@@ -1,4 +1,5 @@
 # Harry-Potter-Text-Generator
+##### by Jack Nash
 Experiments in natural text generation using Harry Potter books as the source text
 
 ## Viewing the notebook/code
